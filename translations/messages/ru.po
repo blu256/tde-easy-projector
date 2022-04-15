@@ -1,0 +1,137 @@
+# translation of ru.po to Russian
+#
+# Mavridis Philippe <mavridisf@gmail.com>, 2022.
+msgid ""
+msgstr ""
+"Project-Id-Version: ru\n"
+"POT-Creation-Date: 2022-04-09 18:52+0300\n"
+"PO-Revision-Date: 2022-04-09 19:01+0300\n"
+"Last-Translator: Mavridis Philippe <mavridisf@gmail.com>\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.4\n"
+
+#. Instead of a literal translation, add your name to the end of the list (separated by a comma).
+#, ignore-inconsistent
+msgid ""
+"_: NAME OF TRANSLATORS\n"
+"Your names"
+msgstr "Мавридис Филиппос"
+
+#. Instead of a literal translation, add your email to the end of the list (separated by a comma).
+#, ignore-inconsistent
+msgid ""
+"_: EMAIL OF TRANSLATORS\n"
+"Your emails"
+msgstr "mavridisf@gmail.com"
+
+#: dialog.cpp:13
+msgid "Select side to extend to"
+msgstr "Выберите сторону для расширения"
+
+#: easyprojector.cpp:17
+msgid "TDE Easy Projector"
+msgstr "Лёгкая настройка проектора для TDE"
+
+#: easyprojector.cpp:19
+msgid "Loading..."
+msgstr "Загрузка..."
+
+#: easyprojector.cpp:22
+msgid "PC Screen only"
+msgstr "Только экран"
+
+#: easyprojector.cpp:23
+msgid "Projector duplicates screen"
+msgstr "Проектор дублирует экран"
+
+#: easyprojector.cpp:24
+msgid "Projector extends screen"
+msgstr "Проектор дополняет экран"
+
+#: easyprojector.cpp:26
+msgid "Disable projector output."
+msgstr "Выключить передачу картинки на проектор"
+
+#: easyprojector.cpp:27
+msgid "Projector shows a copy of your screen."
+msgstr "Проектор будет показывать копию Вашего экрана"
+
+#: easyprojector.cpp:28
+msgid "Projector acts as an extension of your screen (either of the four sides)."
+msgstr "Проектор будет вести себя как дополнительный экран (расширяя любую из четырёх сторон)."
+
+#: easyprojector.cpp:34
+msgid "System not supported."
+msgstr "Система не поддерживается"
+
+#: easyprojector.cpp:35
+msgid "This system does not support the XRandR extension."
+msgstr "Данная система не поддерживает дополнение XRandR."
+
+#: easyprojector.cpp:75
+msgid "No screens found."
+msgstr "Не найден(ы) экран(ы)."
+
+#: easyprojector.cpp:76
+msgid ""
+"No outputs have been found on this computer. This probably means that there "
+"is a system error."
+msgstr "Не удалось найти экраны или другие устройства вывода изображения. Вероятно, это произошло из-за системной ошибки."
+
+#: easyprojector.cpp:84
+msgid "No projector."
+msgstr "Нет проектора."
+
+#: easyprojector.cpp:85
+msgid ""
+"Ensure that the projector is properly functioning and connected to this "
+"computer."
+msgstr "Убедитесь, что проектор в рабочем состоянии и правильно подключён к компьютеру."
+
+#: easyprojector.cpp:112
+msgid "Internal error"
+msgstr "Внутреняя ошибка"
+
+#: easyprojector.cpp:113
+msgid "Either the primary screen or the projector could not be found."
+msgstr "Главный экран или проектор не могут быть найдены."
+
+#: easyprojector.cpp:117
+msgid ""
+"<table><tr><td><b>Screen:</b></td><td>%1</td></tr><tr><td><b>Projector:</b></"
+"td><td>%2</td></tr></table>"
+msgstr ""
+"<table><tr><td><b>Экран:</b></td><td>%1</td></tr><tr><td><b>Проектор:</b></"
+"td><td>%2</td></tr></table>"
+
+#: easyprojector.cpp:124
+msgid "PC Only"
+msgstr "Только экран"
+
+#: easyprojector.cpp:128
+msgid "Duplicated"
+msgstr "Дублирование"
+
+#: easyprojector.cpp:136
+msgid "Extending on the left"
+msgstr "Дополнеяет слева"
+
+#: easyprojector.cpp:140
+msgid "Extending on the right"
+msgstr "Дополнеяет справа"
+
+#: easyprojector.cpp:144
+msgid "Extending on the top"
+msgstr "Дополнеяет сверху"
+
+#: easyprojector.cpp:148
+msgid "Extending on the bottom"
+msgstr "Дополнеяет снизу"
+
+#: easyprojector.cpp:319
+msgid "Could not change display settings!"
+msgstr "Не удалось поменять настройки экрана!"
+

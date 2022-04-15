@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=TDE Easy Projector
+Type=Application
+Exec=tdeeasyprojector
+Icon=tdeeasyprojector
+Terminal=false
+Categories=Qt;TDE;Utility;

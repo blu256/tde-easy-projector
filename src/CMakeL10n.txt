@@ -1,0 +1,6 @@
+tde_l10n_create_template( "messages/tdeeasyprojector" )
+
+tde_l10n_create_template(
+  CATALOG "desktop_files/tdeeasyprojector.desktop"
+  SOURCES tdeeasyprojector.desktop
+)

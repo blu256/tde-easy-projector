@@ -1,0 +1,135 @@
+# SOME DESCRIPTIVE TITLE.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2022-04-09 18:52+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. Instead of a literal translation, add your name to the end of the list (separated by a comma).
+#, ignore-inconsistent
+msgid ""
+"_: NAME OF TRANSLATORS\n"
+"Your names"
+msgstr ""
+
+#. Instead of a literal translation, add your email to the end of the list (separated by a comma).
+#, ignore-inconsistent
+msgid ""
+"_: EMAIL OF TRANSLATORS\n"
+"Your emails"
+msgstr ""
+
+#: dialog.cpp:13
+msgid "Select side to extend to"
+msgstr ""
+
+#: easyprojector.cpp:17
+msgid "TDE Easy Projector"
+msgstr ""
+
+#: easyprojector.cpp:19
+msgid "Loading..."
+msgstr ""
+
+#: easyprojector.cpp:22
+msgid "PC Screen only"
+msgstr ""
+
+#: easyprojector.cpp:23
+msgid "Projector duplicates screen"
+msgstr ""
+
+#: easyprojector.cpp:24
+msgid "Projector extends screen"
+msgstr ""
+
+#: easyprojector.cpp:26
+msgid "Disable projector output."
+msgstr ""
+
+#: easyprojector.cpp:27
+msgid "Projector shows a copy of your screen."
+msgstr ""
+
+#: easyprojector.cpp:28
+msgid ""
+"Projector acts as an extension of your screen (either of the four sides)."
+msgstr ""
+
+#: easyprojector.cpp:34
+msgid "System not supported."
+msgstr ""
+
+#: easyprojector.cpp:35
+msgid "This system does not support the XRandR extension."
+msgstr ""
+
+#: easyprojector.cpp:75
+msgid "No screens found."
+msgstr ""
+
+#: easyprojector.cpp:76
+msgid ""
+"No outputs have been found on this computer. This probably means that there "
+"is a system error."
+msgstr ""
+
+#: easyprojector.cpp:84
+msgid "No projector."
+msgstr ""
+
+#: easyprojector.cpp:85
+msgid ""
+"Ensure that the projector is properly functioning and connected to this "
+"computer."
+msgstr ""
+
+#: easyprojector.cpp:112
+msgid "Internal error"
+msgstr ""
+
+#: easyprojector.cpp:113
+msgid "Either the primary screen or the projector could not be found."
+msgstr ""
+
+#: easyprojector.cpp:117
+msgid ""
+"<table><tr><td><b>Screen:</b></td><td>%1</td></tr><tr><td><b>Projector:</b></"
+"td><td>%2</td></tr></table>"
+msgstr ""
+
+#: easyprojector.cpp:124
+msgid "PC Only"
+msgstr ""
+
+#: easyprojector.cpp:128
+msgid "Duplicated"
+msgstr ""
+
+#: easyprojector.cpp:136
+msgid "Extending on the left"
+msgstr ""
+
+#: easyprojector.cpp:140
+msgid "Extending on the right"
+msgstr ""
+
+#: easyprojector.cpp:144
+msgid "Extending on the top"
+msgstr ""
+
+#: easyprojector.cpp:148
+msgid "Extending on the bottom"
+msgstr ""
+
+#: easyprojector.cpp:319
+msgid "Could not change display settings!"
+msgstr ""

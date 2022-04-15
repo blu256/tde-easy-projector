@@ -1,0 +1,25 @@
+###                                             ###
+#                                                 #
+# Copyright (C) 2022  Mavridis Philippe (blu.256) #
+#                           <mavridisf@gmail.com> #
+#                                                 #
+# Improvements & feedback are welcome!            #
+#                                                 #
+# This file is released under GPL v2 or later.    #
+#                                                 #
+###                                             ###
+
+
+cmake_minimum_required( VERSION 3.1 )
+
+# Include TDE CMake modules
+###########################
+
+set( CMAKE_MODULE_PATH "${CMAKE_SOURCE_DIR}/cmake/modules" )
+include( TDEL10n )
+
+
+# Automagically create translation templates
+############################################
+
+tde_l10n_auto_add_subdirectories( )
