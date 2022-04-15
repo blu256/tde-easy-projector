@@ -2,6 +2,8 @@
 
 This program helps set up a projector or external screen. It was born out of the need for an extremely simple utility for setting up a projector for a presentation.
 
+![TDE Easy Projector](https://raw.githubusercontent.com/blu256/tde-easy-projector/master/src/hi128-app-tdeeasyprojector.png)
+
 Behind the scenes, it is a wrapper around the Trinity KRandrSimpleApi class and the `xrandr` utility.
 
 There are two modes available: screen duplication and screen extension. Its main GUI consists from just three big buttons ;-)
